@@ -10,7 +10,7 @@
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Resolução de exercícios do módulo Grafos1 da disciplina Projeto de Algoritmos 
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
