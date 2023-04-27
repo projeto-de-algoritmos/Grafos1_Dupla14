@@ -1,13 +1,13 @@
 # Grafos1_Exercicios-Codeforces
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 1<br>
+**Conteúdo da Disciplina**: Grafos 1<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
 | 20/2016524  |  Henrique Torres Landin |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0136925  |  Hugo Rocha de Moura |
 
 ## Sobre 
 Resolução de exercícios do módulo Grafos1 da disciplina Projeto de Algoritmos 
