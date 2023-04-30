@@ -1,4 +1,4 @@
-# Grafos1_Exercicios-Codeforces
+# Grafos1_Exercicios
 
 **Número da Lista**: 1<br>
 **Conteúdo da Disciplina**: Grafos 1<br>
