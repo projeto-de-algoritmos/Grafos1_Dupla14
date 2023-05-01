@@ -1,6 +1,5 @@
 class Solution:
     def isBipartite(self, grafo: List[List[int]]):
-        # cores: 0 = não colorido, 1 = vermelho, -1 = azul
         cores = [0] * len(grafo)
         
         def dfs(no, cor):
