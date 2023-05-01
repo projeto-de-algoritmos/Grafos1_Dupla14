@@ -9,9 +9,11 @@ O algoritmo deve retornar `True` se o grafo é bipartido e `False` caso contrár
 
 ### Exemplo de entrada e saída:
 **Entrada:**
+
 [[1,3], [0,2], [1,3], [0,2]]
 
 **Saída:**
+
 True
 
 
