@@ -46,7 +46,26 @@ Vale ressaltar que para rodar o código não é necessário instalar a linguagem
 **Uso**<br>
 Para rodar e testar o exercício, basta entrar em seu respectivo link e escolher a linguagem correta, copiar o código e colar para fazer os testes!!
 
-### Exercicio3 - "Estradas Asfaltadas Ajude João"
+### Exercicio3 - "Police Stations"
+**Nível do exercício:** Médio
+
+Para acessar o exercício [clique aqui](https://codeforces.com/contest/796/problem/D)
+
+Para acessar o código fonte do exercício e teste [clique aqui](https://github.com/projeto-de-algoritmos/Grafos1_Exercicios_/blob/main/D_Police_State/pds.ipynb)
+
+
+<div style="display:flex">
+  <img src="https://github.com/projeto-de-algoritmos/Grafos1_Exercicios_/blob/main/D_Police_State/prints/pr01.png" width="325" height="400" />
+  <img src="https://github.com/projeto-de-algoritmos/Grafos1_Exercicios_/blob/main/D_Police_State/prints/pr02.png" width="325" height="400" />
+  <img src="https://github.com/projeto-de-algoritmos/Grafos1_Exercicios_/blob/main/D_Police_State/prints/pr03.png" width="325" height="400" /> 
+</div>
+
+**Instalação e uso**<br>
+**Linguagem**: Python<br>
+
+Para rodar o código, basta clonar o repositório, acessar a pasta do exercício com o terminal e rodar o comando jupyter notebook
+
+### Exercicio4 - "Estradas Asfaltadas Ajude João"
 **Nível do exercício:** Difícil
 
 Para acessar o pdf do exercício [clique aqui](https://github.com/projeto-de-algoritmos/Grafos1_Exercicios_/blob/main/EstradasAsfaltadasAjudeJoao/grafo-ajude-joao.pdf)
