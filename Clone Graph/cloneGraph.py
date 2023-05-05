@@ -9,7 +9,6 @@ class Solution:
             return None
         
         clone_map = {}
-        visited = set()
         
         def clone(node):
             if node in clone_map:
