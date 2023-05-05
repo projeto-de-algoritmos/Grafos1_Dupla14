@@ -64,6 +64,13 @@ Para acessar o código fonte do exercício e teste [clique aqui](https://github.
 **Linguagem**: Python<br>
 
 Para rodar o código, basta clonar o repositório, acessar a pasta do exercício com o terminal e rodar o comando jupyter notebook
+<br>
+<br>
+<br>
+**VIDEO Q3**
+
+[![VIDEOQ3](https://img.freepik.com/vetores-gratis/icone-do-player-do-youtube-com-design-plano_23-2147839964.jpg?w=200)](https://www.youtube.com/watch?v=zhf0KrR67VQ)
+
 
 ### Exercicio4 - "Estradas Asfaltadas Ajude João"
 **Nível do exercício:** Difícil
@@ -79,6 +86,9 @@ Para acessar o código fonte do exercício [clique aqui](https://github.com/proj
   <img src="https://github.com/projeto-de-algoritmos/Grafos1_Exercicios_/blob/main/EstradasAsfaltadasAjudeJoao/prints/pr03.png" width="325" height="400" /> 
 </div>
 
+
+
+
 **Instalação**<br>
 **Linguagem**: C<br>
 
@@ -89,3 +99,9 @@ EX: gcc EstradasAsfaltadasAjudeJoao.c -o AJ
 **Uso**<br>
 Para rodar e testar o exercício, basta compliar e rodar com:
     ./AJ
+<br>
+<br>
+<br>
+**VIDEO Q4**
+
+[![VIDEOQ4](https://img.freepik.com/vetores-gratis/icone-do-player-do-youtube-com-design-plano_23-2147839964.jpg?w=200)](https://www.youtube.com/watch?v=rhsHfBoyQNc)
